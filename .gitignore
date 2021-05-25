@@ -2,3 +2,9 @@ data
 .vscode
 result_data
 src/__pycache__/
+Stop_Data-collection
+.ipynb_checkpoints
+.DS_Store
+.venv
+Docker
+Models
